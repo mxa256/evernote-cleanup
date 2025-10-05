@@ -1,0 +1,13 @@
+# Python cruft
+__pycache__/
+*.pyc
+
+# Jupyter cruft
+.ipynb_checkpoints/
+
+# Local environment
+.env
+
+# Outputs
+resources/
+cleaned_note.md
